@@ -29,7 +29,7 @@ education:
   courses:
   - course: Doctoral Student
     institution: University of South Florida
-    year: Present
+    year: 2020
   - course: Masters in Accounting with Information Systems Concentration
     institution: Florida Atlantic University
     year: 2015
